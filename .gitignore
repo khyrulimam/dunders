@@ -38,6 +38,8 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .coverage
+
+# i dont know. I love you!
 .coverage.*
 .cache
 nosetests.xml
